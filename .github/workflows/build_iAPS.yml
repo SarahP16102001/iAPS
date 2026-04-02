@@ -178,4 +178,3 @@ jobs:
           path: |
             artifacts
             buildlog
-bundle update fastlane
